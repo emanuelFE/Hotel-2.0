@@ -26,11 +26,23 @@
   background-color: rgb(5, 162, 253);
   color: #fff;
 }
-.fundo-branco {
-  /* background-color: #fff; */
-}
+
 body {
   background-image: url("../img/img\ 2.jpg");
   background-attachment: fixed;
   background-size: 100%;
+}
+
+.img100 {
+  width: 100%;
+  height: auto;
+}
+
+.fundo-branco {
+  background-color: #fff;
+}
+
+.gastronomiaimg {
+  width: 20px;
+  height: 20px;
 }
