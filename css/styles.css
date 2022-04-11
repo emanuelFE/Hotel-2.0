@@ -26,3 +26,11 @@
   background-color: rgb(5, 162, 253);
   color: #fff;
 }
+.fundo-branco {
+  /* background-color: #fff; */
+}
+body {
+  background-image: url("../img/img\ 2.jpg");
+  background-attachment: fixed;
+  background-size: 100%;
+}
